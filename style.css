@@ -4025,7 +4025,7 @@ figure {
 }
 
 .www_item {
-    background-color: var(--swatch--wine);
+    background-color: var(--swatch--navy);
     color: var(--swatch--soft-red);
     cursor: pointer;
     border-radius: 4rem;
@@ -4054,7 +4054,7 @@ figure {
 .www_button {
     border-radius: var(--radius--round);
     background-color: var(--swatch--light);
-    color: var(--swatch--wine);
+    color: var(--swatch--navy);
     justify-content: center;
     align-items: center;
     width: 5.5rem;
