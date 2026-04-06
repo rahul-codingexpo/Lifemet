@@ -2877,7 +2877,7 @@ figure {
 
 .u-container {
     max-width: var(--max-width--main);
-    padding: 5rem var(--padding-horizontal--main)0px;
+    padding: 1.5rem var(--padding-horizontal--main)0px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -3757,7 +3757,7 @@ figure {
 }
 
 .line.is_wine {
-    background-color: var(--swatch--wine)
+    background-color: var(--swatch--navy)
 }
 
 .line.is_navy {
@@ -3933,7 +3933,7 @@ figure {
 .cp_content-item {
     grid-column-gap: 1.25rem;
     grid-row-gap: 1.25rem;
-    color: var(--swatch--wine);
+    color: var(--swatch--navy);
     flex-flow: column;
     margin-top: 2rem;
     display: flex
@@ -4516,7 +4516,7 @@ figure {
 }
 
 .faq_item {
-    border: 1px solid var(--swatch--wine);
+    border: 1px solid var(--swatch--navy);
     background-color: #ddd0;
     border-radius: 3.7rem;
     padding-left: 2rem;
