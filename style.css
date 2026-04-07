@@ -4908,12 +4908,13 @@ figure {
 
 .footer_sign-con {
     color: var(--swatch--dark-secondary2);
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     flex-flow: row;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     width: 100%;
+    text-align: center;
     margin-top: 1rem;
-    display: flex
+    /* display: flex */
 }
 
 .u-text-12 {
